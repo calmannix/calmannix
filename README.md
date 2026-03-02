@@ -1,8 +1,8 @@
 # Hey, I'm Cal 👋
 
-Product Manager based in Taipei, Taiwan. I build things to scratch my own itches — and occasionally other people's.
+Product Manager based in Taipei, Taiwan. It's quicker building for myself than using other peoples stuff.
 
-My current obsession is AI-accelerated product discovery: compressing 2–3 week cycles into under a week using Claude Code, Bolt, and Cursor to prototype fast, and Lyssna to test with real users.
+My craze is is AI-accelerated product discovery: compressing 2–3 week cycles into under a week using Claude Code and Lyssna to test with real users.
 
 By day I'm PM at [MoreHarvest](https://moreharvest.com), a fintech startup building Japanese real estate funds for retail investors across Asia.
 
@@ -31,12 +31,10 @@ Most repos here started as a problem I couldn't find a good solution for.
 
 ## 🏃 Outside work
 
-Founder of **Taipei Frontrunners** — Wednesday evenings and Saturday mornings, all welcome.
-
-Also creating YouTube content on Japanese real estate investment for Singapore and Hong Kong audiences.
+Founder of **Taipei Frontrunners**
 
 ---
 
 ## 📬 Get in touch
 
-[LinkedIn](https://linkedin.com/in/calmannix) · callum@moreharvest.com
+[LinkedIn](https://linkedin.com/in/calmannix)
