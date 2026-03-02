@@ -33,4 +33,4 @@ I write, prototype, and ship. Most of the tools here started as a personal probl
 
 ## Let's connect
 
-[LinkedIn](https://linkedin.com/in/calmannix) · callum@moreharvest.com
+[LinkedIn](https://linkedin.com/in/calmannix)
