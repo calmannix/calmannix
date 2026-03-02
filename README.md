@@ -6,6 +6,14 @@ My craze is is AI-accelerated product discovery: compressing 2–3 week cycles i
 
 By day I'm PM at [MoreHarvest](https://moreharvest.com), a fintech startup building Japanese real estate funds for retail investors across Asia.
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-black?logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-black?logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt-black?logoColor=white)
+![Lyssna](https://img.shields.io/badge/Lyssna-5B5EA6?logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 ---
 
 ## 🛠️ What I'm building
